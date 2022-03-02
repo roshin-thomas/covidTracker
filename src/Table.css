@@ -1,0 +1,11 @@
+.table {
+  margin-top: 20px;
+  margin-bottom: 40px;
+  overflow: scroll;
+  height: 450px;
+  background-color: #fafafa;
+}
+
+.table tr:nth-of-type(odd) {
+  background-color: white;
+}
